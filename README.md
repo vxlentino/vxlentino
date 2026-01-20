@@ -19,7 +19,7 @@
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/valentino-carrazana-falcone-6330a8305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vxlentiiino/?hl=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+
 </p>
 <br>
 
