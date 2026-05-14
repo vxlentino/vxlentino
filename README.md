@@ -21,7 +21,6 @@ lado del cliente como del servidor.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87C53F?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 ## 📫 Contáctame
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinocarrazana@gmail.com)
